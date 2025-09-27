@@ -1,0 +1,17 @@
+# 가상환경
+.venv/
+ENV/
+env/
+
+# Python 캐시 파일
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# OS 관련 파일
+.DS_Store
+
+# IDE 설정
+.vscode/
+.idea/
